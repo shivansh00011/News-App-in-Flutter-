@@ -1,16 +1,50 @@
-# newsapp
 
-A new Flutter project.
+# NewsApp
+## Overview
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+NewsApp is a simple application that fetches news articles from various sources using the NewsAPI.org API. It allows users to explore trending news, breaking news, or news based on specific categories. Additionally, users can read the articles in detail using a webview integrated within the app.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+-> Fetches news articles from NewsAPI.org.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-> Allows users to browse trending news, breaking news, or news by category.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-> Provides a webview for reading articles in detail.
+
+-> Simple and intuitive user interface.
+
+## Usage
+
+1. Clone the repository to your local machine:
+
+
+
+
+
+
+
+
+
+
+```bash
+  git clone https://github.com/shivansh00011/News-App-in-Flutter-.git
+
+```
+
+2. Open the project in your preferred IDE.
+3. Ensure you have Flutter and Dart installed on your local machine.
+4. Obtain an API key from NewsAPI.org by signing up for an account.
+5. Make sure to replace all the apis from the project to your own api that you will get from NewsAPI.org.
+6. Run the application on your emulator or physical device.
+7. Explore trending news, breaking news, or select a specific category to view news articles.
+8. Click on any article to read it in detail using the integrated webview.
+
+
+## Technologies Used
+
+* **Flutter**
+* **Dart**
+
+## Documentations
+For the Documentations you can visit pub.dev 
